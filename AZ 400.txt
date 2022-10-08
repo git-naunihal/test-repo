@@ -1,0 +1,90 @@
+Agile vs Scrum vs CIIM
+People often think scrum and agile are the same thing because scrum is centered around continuous improvement, which is a core principle of agile. However, scrum is a framework for getting work done, where agile is a mindset.
+CMMI is for large engineering projects, also for the complicated projects. It also helps to improve Agile methods implemented in the organization. Scrum is part of Agile. CMMI is being just for the improvement of the current process to attain certain levels, but Scrum has no limits for the improvement.
+Agile is the Umbrela
+
+Fork vs Clone
+A fork creates a completely independent copy of Git repository. In contrast to a fork, a Git clone creates a linked copy that will continue to synchronize with the target repository
+
+Tags in Git
+Tags are ref's that point to specific points in Git history. Tagging is generally used to capture a point in history that is used for a marked version release (i.e. v1. 0.1). A tag is like a branch that doesn't change. Unlike branches, tags, after being created, have no further history of commits.
+
+What are hooks in Git
+Git hooks are shell scripts found in the hidden . git/hooks directory of a Git repository. These scripts trigger actions in response to specific events, so they can help you automate your development lifecycle. Although you may never have noticed them, every Git repository includes 12 sample scripts.
+
+Azure Conditional Access Policy
+Azure Active Directory (AD) Conditional Access provides added security by allowing access to your applications across cloud and on-premises only from trusted and compliant devices. It is a policy-based approach. You can configure a Conditional Access policy with the required conditions to apply the access controls. 
+
+Selinum
+Selenium is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms.  It provides a single interface that lets you write test scripts in many programming languages. Some other testing tools are Apache JMeter, TestNG, Cucumber, Appium.
+
+SonarCloud
+SonarQube is a Code Quality Assurance tool that collects and analyzes source code, and provides reports for the code quality of your project. It combines static and dynamic analysis tools and enables quality to be measured continually over time. It can perform continuous analysis of your source code quality by performing analysis of your code to detect duplications, bugs, security vulnerabilities and code smells.
+
+Personal Access Tocken[ delegation of authorization]
+PAT is a string of characters that can be used to authenticate a user  instead of the usual password. Though associated with a single account, multiple PATs may be created, and can be manipulated independently of the password associated with that account, including creation and revocation of PATs without altering the password. The PAT is usually generated automatically by the remote system — for example, as a string of 40 hexadecimal characters. Typically, permissions may also be adjusted for each PAT individually, allowing or restricting access to certain classes of data or functions on the remote system. he PAT will typically be stored in a location accessible to the program, and therefore not typically as secure as a password.
+============================================
+Skillpipe	is the courware
+email.naunihal.singh@gmail.com
+abcd1234
+
+For Microsoft Account
+email.naunihal.singh@gmail.com
+Exp0nen^
+
+Lab
+https://gsi.learnondemand.net/User/Login?ReturnUrl=%2F
+
+Azure DevOps Portal
+https://dev.azure.com/emailnaunihalsingh
+
+Github
+email.naunihal.singh  [Already exist]
+
+QCYH5EWDXZWGF0SKV3
+---------------------------------------URL for AZ-400 Training-----------------
+https://azuredevopslabs.com/
+
+https://learn.microsoft.com/en-us/shows/devops-lab/
+
+https://azuredevopsdemogenerator.azurewebsites.net/
+
+https://marketplace.visualstudio.com/azuredevops
+
+https://github.com/
+
+https://azure.microsoft.com/en-us/products/devops/?nav=min
+
+https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops
+
+https://docs.github.com/en
+
+https://www.skillpipe.com/#/bookshelf/books    -- > courseware
+=====================================================
+[13:38] GOPAL RAJ M .
+Labs : 
+Student Access to Labs 
+Training Key: DB7266ACAC744CC1
+Please ensure the Training Key is distributed during the class delivery.
+In order to access course materials, ask students to navigate to https://gsi.learnondemand.net.  From there, students should sign in with a Microsoft Account (Live ID).  Students should always login with a Microsoft Account by selecting the Microsoft Account option. After signing in, students should click Redeem Training Key at the top of the page and follow the prompts which will give students access to course materials.
+Login - Skillable TMS
+
+[13:40] GOPAL RAJ M .
+https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/
+
+            AZ400-DesigningandImplementingMicrosoftDevOpsSolutions
+        
+
+=============================================
+Pending
+Agile framework
+Azure DevOps vs Other DevOps
+
+
+
+https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=agile-process
+----------------------------------------
+Day1: Board
+Day2: Repo
+Day3: CI
+Day4: Pipeline
